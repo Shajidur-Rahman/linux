@@ -9,4 +9,9 @@ sudo => It is the main power.
 clear => to clean the terminal. 
 
 Ls ====>
+ls => This command lists all the contents in the corrent dir. 
+ls path => by this command you will get the lists of the path
+ls -l => by this command you can see with owener and its permission
+ls -a => by this command you can get all the hidden files 
+ls -author => by this command you can see authors work
 
