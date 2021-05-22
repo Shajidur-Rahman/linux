@@ -1,0 +1,3 @@
+cd => to go the others directoris .
+ls => to show what are in the corrent dir.
+cd .. => to came back to the privious dir. 
