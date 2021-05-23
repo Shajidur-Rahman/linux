@@ -15,3 +15,10 @@ ls -l => by this command you can see with owener and its permission
 ls -a => by this command you can get all the hidden files 
 ls -author => by this command you can see authors work
 
+Cd ====>
+cd ~ => This command also changes the dir to home
+cd / => by this command you can go to the root dir
+cd .. => it change the dir to its parent dir
+cd 'xx yy' => we specify the folder name in inberted commands because there is a space in the folder name
+
+
