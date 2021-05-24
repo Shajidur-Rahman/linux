@@ -21,4 +21,8 @@ cd / => by this command you can go to the root dir
 cd .. => it change the dir to its parent dir
 cd 'xx yy' => we specify the folder name in inberted commands because there is a space in the folder name
 
-
+Cat ====>
+cat file_name.ext => This will show what are inside in the file.
+cat > file.txt => by this commade you can create and write into the file.
+cat file.txt file2.txt => by this command you can see what are inside in the 2 files.
+cat file1.txt >> file2.txt => this will copy the text frome file1 to file2. 
